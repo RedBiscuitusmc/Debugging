@@ -1,0 +1,14 @@
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.exe
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.deps.json
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.runtimeconfig.dev.json
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.dll
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.pdb
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.dll
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.pdb
+C:\Users\Akashic Records\Desktop\Debugging\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.genruntimeconfig.cache
